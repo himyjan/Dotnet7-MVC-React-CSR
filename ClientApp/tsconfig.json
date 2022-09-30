@@ -1,7 +1,7 @@
 ﻿{
   "compilerOptions": {
     "target": "esnext",
-    "lib": [ "dom", "dom.iterable", "esnext" ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -18,10 +18,10 @@
     "jsx": "react-jsx",
     "baseUrl": "src",
     "paths": {
-      "#stories/*": [ "./stories/*" ],
-      "#components/*": [ "./components/*" ]
+      "#stories/*": ["./stories/*"],
+      "#components/*": ["./components/*"]
       // etc.
     }
   },
-  "include": [ "src", "src/**/*.ts", "src/**/*.tsx", ".eslintrc.cjs" ]
+  "include": ["src", "src/**/*.ts", "src/**/*.tsx", ".eslintrc.cjs"]
 }
