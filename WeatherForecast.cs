@@ -1,4 +1,4 @@
-namespace dotnet_mvc_react_ssr;
+namespace dotnet_mvc_react_csr;
 
 public class WeatherForecast
 {

@@ -7,7 +7,12 @@
 /coverage
 
 # production
-/build
+build
+dist
+.vs
+obj
+Debug
+Release
 
 # misc
 .DS_Store
