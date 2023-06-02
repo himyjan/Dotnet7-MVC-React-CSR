@@ -37,7 +37,7 @@ export class NavMenu extends Component {
           light={true}
         >
           <NavbarBrand tag={Link} to="/">
-            dotnet_mvc_react_ssr
+            dotnet_mvc_react_csr
           </NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse

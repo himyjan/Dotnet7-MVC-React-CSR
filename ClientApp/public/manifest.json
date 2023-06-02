@@ -1,6 +1,6 @@
 {
-  "short_name": "dotnet_mvc_react_ssr",
-  "name": "dotnet_mvc_react_ssr",
+  "short_name": "dotnet_mvc_react_csr",
+  "name": "dotnet_mvc_react_csr",
   "icons": [
     {
       "src": "favicon.ico",

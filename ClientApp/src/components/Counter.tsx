@@ -23,7 +23,7 @@ export class Counter extends Component {
         <p>This is a simple example of a React component.</p>
 
         <p aria-live="polite">
-          Current count: <strong>{this.state["currentCount"]}</strong>
+          Current count: <strong>{this.state['currentCount']}</strong>
         </p>
 
         <button className="btn btn-primary" onClick={this.incrementCounter}>

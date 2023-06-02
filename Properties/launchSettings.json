@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "dotnet_mvc_react_ssr": {
+    "dotnet_mvc_react_csr": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7260;http://localhost:5192",
